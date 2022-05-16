@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/3_2_ex1_calEX/3_2_ex1_calEX.iml" filepath="$PROJECT_DIR$/3_2_ex1_calEX/3_2_ex1_calEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_2_ex2_calEx/3_2_ex2_calEx.iml" filepath="$PROJECT_DIR$/3_2_ex2_calEx/3_2_ex2_calEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_2_ex11_whileEx/4_2_ex11_whileEx.iml" filepath="$PROJECT_DIR$/4_2_ex11_whileEx/4_2_ex11_whileEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_2_ex4_ave/4_2_ex4_ave.iml" filepath="$PROJECT_DIR$/4_2_ex4_ave/4_2_ex4_ave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_2_ex5_switchEx/4_2_ex5_switchEx.iml" filepath="$PROJECT_DIR$/4_2_ex5_switchEx/4_2_ex5_switchEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_2_ex6_ForTest/4_2_ex6_ForTest.iml" filepath="$PROJECT_DIR$/4_2_ex6_ForTest/4_2_ex6_ForTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_2_ex6_forEx/4_2_ex6_forEx.iml" filepath="$PROJECT_DIR$/4_2_ex6_forEx/4_2_ex6_forEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-JSP-SPRING.iml" filepath="$PROJECT_DIR$/.idea/JAVA-JSP-SPRING.iml" />
     </modules>
   </component>

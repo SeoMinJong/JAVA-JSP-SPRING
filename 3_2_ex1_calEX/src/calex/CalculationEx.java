@@ -19,7 +19,7 @@ public class CalculationEx {
         System.out.println("+ i :  "+ i);
         j--;
         System.out.println("j : "+ j);
-        
+
         System.out.println("==동등비교, 관계 연산자==");
         System.out.println(" i = j  : "+ ( i = j ));
         System.out.println(" i != j  : "+ ( i != j ));
@@ -31,5 +31,9 @@ public class CalculationEx {
         System.out.println("&&(AND) : "+ ( i != j ));
         System.out.println("||(OR)  : "+ (i >j));
         System.out.println("||(OR) : "+ (i < j));
+
+        System.out.println("==삼항 연산자==");
+        int result = h != 5 ? 1 : 2;
+        System.out.println("result : " + result);
     }
 }
