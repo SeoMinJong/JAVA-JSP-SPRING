@@ -52,3 +52,16 @@ public접근제한자 intreturn값을 형 sum메소드 네임 (int i, int j매�
 
 **변수(기초데이터)와 객체의 메모리 구조**  
 같은 class에서 나온 객체(인스턴스)라도 각 객체는 각기 다른 주소값(레퍼런스)가 있으므로 객체는 해당 주소값을 가지고 있다고 생각할 수 있고, 따라서 객체는 각각 다른 데이터를 유지할 수 있음.  
+
+# 클래스
+~~~
+package com.javalec.makeClass;
+
+public class ManClass{
+    public ManClass(){
+        
+    }
+}
+~~~
+
+public으로 선언된 class ManClass는 public에 있는 ManClass 함수를 사용하여 실제 객체가 생성이 된다.
