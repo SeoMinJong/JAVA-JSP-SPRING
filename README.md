@@ -63,5 +63,10 @@ public class ManClass{
     }
 }
 ~~~
+public으로 선언된 class ManClass는 public에 있는 ManClass 함수를 사용하여 실제 객체가 생성이 된다.  
 
-public으로 선언된 class ManClass는 public에 있는 ManClass 함수를 사용하여 실제 객체가 생성이 된다.
+프로그램을 구성할 때 가장 먼저 어떠한 클래스들이 필요한지 도면을 그려볼 필요가 있다.  
+EX) 9_1_ex1_StudentManager => 학사관리 시스템 클래스(StudentManager(main)), 학생 정보 클래스(Student), 재적 학생 클래스(StudentExpel)  
+예시처럼 하나의 프로그램을 구성할 때 필요한 구성 요소를 클래스화 시킴으로써 짜임새있는 클래스를 만들 수 있다.  
+
+
