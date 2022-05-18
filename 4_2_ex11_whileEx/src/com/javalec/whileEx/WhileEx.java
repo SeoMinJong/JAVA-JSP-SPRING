@@ -11,7 +11,6 @@ public class WhileEx {
                 result += i;
             }
         }
-
-        System.out.println("result = " + result);
+    System.out.println("result = " + result);
     }
 }

@@ -7,19 +7,22 @@ public class Student_manager {
     StudentExpel studentExpel = new StudentExpel();
 
     public static void main(String[] args){
-        Student_manager student_manager = new Student_manager();
+        Student_manager manager = new Student_manager();
 
-        student_manager.add_student("hong",20,1,"math");
-        student_manager.add_student("Jin",23,2, "gun");
-        student_manager.add_student("bang",25,3,"health");
+        manager.add_student("hong",20,20201343,"math");
+        manager.add_student("Jin",23,20215941, "gun");
+        manager.add_student("bang",25,20185984,"health");
 //        System.out.println(student_manager.students.get(0).getName());
-        String temp_name = student_manager.students.get(1).getName();
-        int temp_age = student_manager.students.get(1).getAge();
-        int temp_student_num = student_manager.students.get(1).getStudent_num();
-        String temp_major = student_manager.students.get(1).getMajor();
+        int expel_num = 0;
+        String temp_name = manager.students.get(expel_num).getName();
+        int temp_age = manager.students.get(expel_num).getAge();
+        int temp_student_num = manager.students.get(expel_num).getStudent_num();
+        String temp_major = manager.students.get(expel_num).getMajor();
 
         StudentExpel.addExpelStudent(temp_name, temp_age, temp_student_num,temp_major);
+        manager.students.remove(expel_num);
 
+        System.out.println(expel_num+"student= " + manager.students.get(expel_num).getName());
     }
 
     public void add_student(String name, int age, int student_num, String major){
