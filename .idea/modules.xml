@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_1_ex1_packagegetset/10_1_ex1_packagegetset.iml" filepath="$PROJECT_DIR$/10_1_ex1_packagegetset/10_1_ex1_packagegetset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_4_ex1_accessEx/10_4_ex1_accessEx.iml" filepath="$PROJECT_DIR$/10_4_ex1_accessEx/10_4_ex1_accessEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_2_ex1_calEX/3_2_ex1_calEX.iml" filepath="$PROJECT_DIR$/3_2_ex1_calEX/3_2_ex1_calEX.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_2_ex2_calEx/3_2_ex2_calEx.iml" filepath="$PROJECT_DIR$/3_2_ex2_calEx/3_2_ex2_calEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_2_ex11_whileEx/4_2_ex11_whileEx.iml" filepath="$PROJECT_DIR$/4_2_ex11_whileEx/4_2_ex11_whileEx.iml" />

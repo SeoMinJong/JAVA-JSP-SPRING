@@ -69,4 +69,15 @@ public으로 선언된 class ManClass는 public에 있는 ManClass 함수를 사
 EX) 9_1_ex1_StudentManager => 학사관리 시스템 클래스(StudentManager(main)), 학생 정보 클래스(Student), 재적 학생 클래스(StudentExpel)  
 예시처럼 하나의 프로그램을 구성할 때 필요한 구성 요소를 클래스화 시킴으로써 짜임새있는 클래스를 만들 수 있다.  
 
+프로그래밍은 데이터를 누군가가 효율적이고 쉽게 활용할 수 있도록 시스템을 만드는 것입니다.  
+데이터를 다루거나 알고리즘의 성능이 떨어져서 시스템의 속도가 너무 느려지게 된다면 당연하게도 좋은 프로그램이라는 말을 할 수 없습니다.  
+때문에 개발자는 코딩 뿐만 아니라 프로그래밍 구조에 대해서 고민하고 고도화시켜야한다.  
+이에 대해 **리펙토링** 관련 서적을 보는 것도 많은 도움이 된다.  
 
+#패키지
+많은 파일을 효율적으로 관리하기 위해 JAVA에서는 패키지라는 **구조**를 사용합니다.  
+https://www.oracle.com/kr/java/technologies/javase-jdk8-doc-downloads.html - java jdk docs url  
+
+**패키지의 이름**  
+패키지의 기본은 도메인의 역순으로 많이 생성한다.  
+ex) www.javalec.com -> com.javalec.packagename
